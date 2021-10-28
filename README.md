@@ -1,2 +1,2 @@
-# POO-1
+# POO
 Paradigma Orientado a Objetos - 1
